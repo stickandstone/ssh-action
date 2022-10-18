@@ -13,6 +13,8 @@ inputs:
     description: 'ssh username'
   password:
     description: 'ssh password'
+  pwd:
+    description: 'sudo pass'
   sync:
     description: 'synchronous execution if multiple hosts'
     default: false
